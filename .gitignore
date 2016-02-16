@@ -1,0 +1,5 @@
+Lib/
+Include/
+Scripts/
+pip-selfcheck.json
+.komodotools
